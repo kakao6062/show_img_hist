@@ -5,7 +5,7 @@ from skimage.io import imread
 
 
 # download the image
-img_url = 'https://qph.cf2.quoracdn.net/main-qimg-11239e7226186811dc09da6afe65bcd9'
+img_url = 'show_img_hist\main-qimg-bb4e6776d843aa2914b6b73f3ca1c504-lq.jpg'
 
 im = imread(img_url)
 
