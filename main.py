@@ -5,7 +5,7 @@ from skimage.io import imread
 
 
 # download the image
-img_url = 'https://github.com/kakao6062/show_img_hist/blob/main/main-qimg-bb4e6776d843aa2914b6b73f3ca1c504-lq.jpg'
+img_url = '/images/yoshi.jpg'
 
 im = imread(img_url)
 
